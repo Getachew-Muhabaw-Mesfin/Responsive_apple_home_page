@@ -147,3 +147,13 @@ img {
     margin-top: 10px;
   }
 }
+.links-wrapper {
+  padding: 15px 0;
+  font-weight: 500;
+}
+.links-wrapper ul li a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f105";
+  padding-left: 10px;
+}

@@ -157,3 +157,13 @@ img {
   content: "\f105";
   padding-left: 10px;
 }
+.iphon15-pro{
+  background-image: url("../images/home/");
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 60px 30px;
+  color: #fff;
+}

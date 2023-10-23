@@ -177,3 +177,13 @@ img {
   padding: 60px 30px;
   color: #fff;
 }
+.watch{
+    background-image: url("../images/home/appe watch pro.png");
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-size: 24px;
+  background-size: cover;
+  text-align: center;
+  padding: 65px 20px;
+}
